@@ -150,7 +150,7 @@ public class SchedulerSimulation {
     public static void main(String[] args) {
         // SET MY ID :445052098
         // This makes your output unique to you - DO NOT forget to change this!
-        int studentID = 123456789;  // ← CHANGE THIS TO YOUR ACTUAL STUDENT ID
+        int studentID = 445052098;  // ← CHANGE THIS TO YOUR ACTUAL STUDENT ID
         
         Random random = new Random(studentID);
         
